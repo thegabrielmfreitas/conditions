@@ -1,3 +1,11 @@
+"""
+if <boolean expression>:
+    statements if expression is true
+elif <boolean expression>:
+    statements if expression is true
+else
+"""
+
 age = input("Enter your age: ")
 
 # Validate the input to ensure it's a non-negative integer
